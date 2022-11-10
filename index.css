@@ -1,19 +1,67 @@
 
-header {
-    background-image: url(images/banner.jpg);
-    margin: 20px 20px 20px 20px ;
-    font-size: 50px;
-    color: white;
-    text-align: center;
-    padding: 100px;
+header{
+background-repeat: no-repeat;
+text-align: center;
 
 }
 
-body {
-   
+h1{
+    background-image: url(images/banner.jpg);
+    margin: 30px 20px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding: 200px 0px 50px 0px;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    
 }
 
 h2 {
     color: green;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
 }
+
+#copyright {
+    font-size: 75%;
+    text-align: left;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30px;
+}
+
+.appetizers{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+}
+
+.dish{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+}
+
+.dessert{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+}
+
+dd{
+    font-size: small;
+}
+
+.price{
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+dt{
+    margin-bottom: 3px;
+}
+
