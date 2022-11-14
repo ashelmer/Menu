@@ -1,3 +1,7 @@
+/*Andrew Helmer*/
+/*Web Development*/
+/*11/13/2022*/
+/*Menu Assignment*/
 
 header{
 background-repeat: no-repeat;
@@ -23,11 +27,13 @@ h2 {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
+    font-size: xx-large;
 }
 
 #copyright {
     font-size: 75%;
-    text-align: left;
+    text-align: right;
+
 }
 
 .center{
@@ -40,16 +46,19 @@ h2 {
 .appetizers{
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
+    padding-left: 100px;
 }
 
 .dish{
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
+    padding-left: 100px;
 }
 
 .dessert{
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
+    padding-left: 100px;
 }
 
 dd{
@@ -64,4 +73,26 @@ dd{
 dt{
     margin-bottom: 3px;
 }
+
+.price2{
+    font-family: cursive;
+}
+
+.desserth2{
+    font-family: cursive;
+}
+
+.desc2{
+    font-style: italic;
+}
+
+.cursive{
+    font-family: cursive;
+}
+
+.background{
+    background-image: url(images/background.png);
+    background-repeat: repeat;
+}
+
 
